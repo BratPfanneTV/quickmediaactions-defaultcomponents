@@ -1,0 +1,1 @@
+https://github.com/BratPfanneTV/quickmediaactions-defaultcomponents/raw/master/QuickMediaActionsAPI.dll
